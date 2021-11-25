@@ -8,8 +8,7 @@ function App()
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          adios! 34
-        </p>
+          fui modificado en feaure branch        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
